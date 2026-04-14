@@ -24,7 +24,7 @@ Esta capacidad de creación se extiende también a mi faceta como emprendedora d
  ![Vuex](https://img.shields.io/badge/Vuex-3EAF7C?style=flat-square&logo=vuedotjs&logoColor=white) 
 
 
-## Herramientas y Entorno
+- ## Herramientas y Entorno
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
