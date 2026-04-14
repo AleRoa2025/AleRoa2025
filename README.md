@@ -1,11 +1,7 @@
 # ¡Hola! Soy Alejandra Roa Peña
 
- **Desarrolladora Front-End Trainee** y **emprendedora creativa** con base en Chile. Mi camino profesional es una mezcla entre la lógica del código y la sensibilidad de las letras y las artes manuales.
-
 ###  Sobre mí
--  Actualmente perfeccionándome en el programa **Front End Trainee 2.0** (Talento Digital para Chile / SENCE).
--  Vengo del mundo de las **humanidades**, lo que me da una perspectiva estructurada y lingüística para entender la sintaxis del código.
--  Cuando no estoy programando, lidero mi propio emprendimiento de **crochet y amigurumis**, donde transformo hilos en personajes complejos.
+ **Desarrolladora Front-End Trainee** y **emprendedora creativa** con base en Chile.Mi camino profesional actual se centra en el desarrollo web a través del programa Front End Trainee 2.0 (Talento Digital para Chile / SENCE). Gracias a mi formación en humanidades, poseo una visión analítica que me permite entender la programación desde una perspectiva lingüística y lógica. Esta capacidad de creación se extiende también a mi faceta como emprendedora de crochet y amigurumis, donde diseño y tejo personajes detallados, uniendo la paciencia artesanal con el pensamiento estructurado.
 
 ###  Mi Stack Tecnológico
 - **Lenguajes:** HTML5, CSS3 (Sass/SCSS), JavaScript (ES6+).
