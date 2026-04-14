@@ -1,6 +1,6 @@
-# ¡Hola! Soy Ale Roa
+# ¡Hola! Soy Alejandra Roa Peña
 
-Soy una **Desarrolladora Front-End en formación** y **emprendedora creativa** con base en Chile. Mi camino profesional es una mezcla entre la lógica del código y la sensibilidad de las letras y las artes manuales.
+ **Desarrolladora Front-End en formación** y **emprendedora creativa** con base en Chile. Mi camino profesional es una mezcla entre la lógica del código y la sensibilidad de las letras y las artes manuales.
 
 ### 🚀 Sobre mí
 - 💻 Actualmente perfeccionándome en el programa **Front End Trainee 2.0** (Talento Digital para Chile / SENCE).
@@ -27,9 +27,5 @@ Soy una **Desarrolladora Front-End en formación** y **emprendedora creativa** c
 - **Shipping Calculator:** Aplicación lógica con componentes reactivos y testing unitario con Vitest.
 - **Sitios Responsivos:** Implementación de diseños complejos usando Sass y arquitectura limpia.
 
-### 🤝 Conectemos
-- **Enfoque:** Me apasiona el desarrollo centrado en el usuario y el código bien organizado.
-!
 
----
 *“El código es como tejer: cada punto cuenta para sostener la estructura final.”*
