@@ -11,7 +11,7 @@
 - **Lenguajes:** HTML5, CSS3 (Sass/SCSS), JavaScript (ES6+).
 - **Frameworks & Librerías:** Vue.js 3 (Options & Composition API), Bootstrap 5.
 - **Herramientas & Metodologías:** Git/GitHub, BEM, Patrón 7-1, Vitest (Unit Testing).
-- **En aprendizaje:** Profundizando en el ecosistema de Vue y testing avanzado.
+- **En aprendizaje:** Profundizando en el ecosistema de Vue (Vuex, Vue Router) y testing avanzado.
 - 
 - ##  Tecnologías Utilizadas
 
