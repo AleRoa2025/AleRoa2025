@@ -12,6 +12,15 @@ Soy una **Desarrolladora Front-End en formación** y **emprendedora creativa** c
 - **Frameworks & Librerías:** Vue.js 3 (Options & Composition API), Bootstrap 5.
 - **Herramientas & Metodologías:** Git/GitHub, BEM, Patrón 7-1, Vitest (Unit Testing).
 - **En aprendizaje:** Profundizando en el ecosistema de Vue y testing avanzado.
+- 
+- ## 🛠️ Tecnologías Utilizadas
+| :--- | :---: | :--- |
+| **HTML5** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Estructura semántica y base del DOM. |
+| **CSS3** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Diseño visual y maquetación. |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Lógica de programación y manipulación de datos (ES6+). |
+| **Sass** | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) | Estilos modulares con metodología BEM y Patrón 7-1. |
+| **Vue 3** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) | Framework progresivo para la creación de la SPA. |
+| **Vuex** | ![Vuex](https://img.shields.io/badge/Vuex-3EAF7C?style=flat-square&logo=vuedotjs&logoColor=white) | Gestión del estado global y flujo de datos centralizado. |
 
 ### 📂 Proyectos Destacados
 - **App Clima Internacional:** Una SPA construida con Vue 3 que consume la API de OpenWeatherMap.
