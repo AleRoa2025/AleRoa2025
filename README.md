@@ -30,6 +30,7 @@ Esta capacidad de creación se extiende también a mi faceta como emprendedora d
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-000000?style=flat-square&logo=windowsterminal&logoColor=white)
 
 
 ###  Proyectos Destacados
