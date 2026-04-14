@@ -20,6 +20,7 @@ Esta capacidad de creación se extiende también a mi faceta como emprendedora d
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
  ![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) 
  ![Vuex](https://img.shields.io/badge/Vuex-3EAF7C?style=flat-square&logo=vuedotjs&logoColor=white) 
 
